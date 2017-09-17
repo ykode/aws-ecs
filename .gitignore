@@ -1,0 +1,6 @@
+*.tfvars
+*.tfstate
+*.tfstate.backup
+files/rocket
+files/rocket.pub
+.terraform/**/*
